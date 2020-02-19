@@ -7,8 +7,11 @@ See addfile.py for adding notes to the DB
 See dev.sh to access the server
 
 / - The homepage
+
 /random - random note
+
 /share/<share_uid> - A shared note
+
 /stats - Notes stats (inactive)
 
 Planned additions:
